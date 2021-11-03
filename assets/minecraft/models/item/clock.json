@@ -69,6 +69,10 @@
         { "predicate": { "time": 0.9609375 }, "model": "item/clock_62" },
         { "predicate": { "time": 0.9765625 }, "model": "item/clock_63" },
         { "predicate": { "time": 0.9921875 }, "model": "item/clock" },
-		{"predicate": {"custom_model_data": 627541094}, "model": "item/bolter"}
+		{"predicate": {"custom_model_data": 295304}, "model": "item/bolter"},
+		{"predicate": {"custom_model_data": 426754}, "model": "item/thunderhammer"},
+		{"predicate": {"custom_model_data": 450256}, "model": "item/bolt"},
+		{"predicate": {"custom_model_data": 485103}, "model": "item/boltpistol"},
+		{"predicate": {"custom_model_data": 695205}, "model": "item/chopper"}
     ]
 }
