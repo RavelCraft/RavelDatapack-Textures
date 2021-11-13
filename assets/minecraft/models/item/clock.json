@@ -69,10 +69,17 @@
         { "predicate": { "time": 0.9609375 }, "model": "item/clock_62" },
         { "predicate": { "time": 0.9765625 }, "model": "item/clock_63" },
         { "predicate": { "time": 0.9921875 }, "model": "item/clock" },
+		{"predicate": {"custom_model_data": 175207}, "model": "item/partyhat"},
+		{"predicate": {"custom_model_data": 267405}, "model": "item/tophat"},
 		{"predicate": {"custom_model_data": 295304}, "model": "item/bolter"},
 		{"predicate": {"custom_model_data": 426754}, "model": "item/thunderhammer"},
 		{"predicate": {"custom_model_data": 450256}, "model": "item/bolt"},
 		{"predicate": {"custom_model_data": 485103}, "model": "item/boltpistol"},
-		{"predicate": {"custom_model_data": 695205}, "model": "item/chopper"}
+		{"predicate": {"custom_model_data": 528514}, "model": "item/santahat"},
+		{"predicate": {"custom_model_data": 628506}, "model": "item/bunnyears"},
+		{"predicate": {"custom_model_data": 695205}, "model": "item/chopper"},
+		{"predicate": {"custom_model_data": 724045}, "model": "item/emeraldmask"},
+		{"predicate": {"custom_model_data": 798452}, "model": "item/antlers"},
+		{"predicate": {"custom_model_data": 845619}, "model": "item/elfears"}
     ]
 }
