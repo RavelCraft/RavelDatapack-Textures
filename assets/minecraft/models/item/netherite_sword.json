@@ -4,6 +4,7 @@
 		"layer0": "item/netherite_sword"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 806528}, "model": "item/powersword"}
+		{"predicate": {"custom_model_data": 246064}, "model": "item/enderite_sword"},
+		{"predicate": {"custom_model_data": 806528}, "model": "item/power_sword"}
 	]
 }

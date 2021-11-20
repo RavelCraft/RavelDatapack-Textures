@@ -1,9 +1,8 @@
 {
-	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "material/tophat",
-		"particle": "material/tophat"
+		"0": "item/top_hat",
+		"particle": "item/top_hat"
 	},
 	"elements": [
 		{

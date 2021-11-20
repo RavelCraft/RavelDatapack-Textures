@@ -1,8 +1,7 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "material/elfears",
-		"particle": "material/elfears"
+		"0": "material/elf_ears",
+		"particle": "material/elf_ears"
 	},
 	"elements": [
 		{

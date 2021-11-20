@@ -1,8 +1,7 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "material/emeraldmask",
-		"particle": "material/emeraldmask"
+		"0": "item/emerald_mask",
+		"particle": "item/emerald_mask"
 	},
 	"elements": [
 		{

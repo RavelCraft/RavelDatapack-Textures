@@ -1,8 +1,7 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "material/santahat",
-		"particle": "material/santahat"
+		"0": "item/santa_hat",
+		"particle": "item/santa_hat"
 	},
 	"elements": [
 		{

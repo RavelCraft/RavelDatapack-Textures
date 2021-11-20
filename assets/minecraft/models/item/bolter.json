@@ -1,10 +1,9 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "material/casing",
 		"1": "material/aquila",
 		"2": "material/metal",
-		"3": "material/scopelens",
+		"3": "material/scope_lens",
 		"particle": "material/casing"
 	},
 	"elements": [

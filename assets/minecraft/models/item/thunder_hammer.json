@@ -1,11 +1,10 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "material/metal",
 		"1": "material/black",
 		"2": "material/yellow",
 		"3": "material/handle",
-		"4": "material/hammergold",
+		"4": "material/hammer_gold",
 		"particle": "material/metal"
 	},
 	"elements": [
