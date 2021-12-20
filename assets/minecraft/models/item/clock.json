@@ -69,7 +69,9 @@
 		{ "predicate": { "time": 0.9609375 }, "model": "item/clock_62" },
 		{ "predicate": { "time": 0.9765625 }, "model": "item/clock_63" },
 		{ "predicate": { "time": 0.9921875 }, "model": "item/clock" },
+
 		{"predicate": {"custom_model_data": 175207}, "model": "item/party_hat"},
+		{"predicate": {"custom_model_data": 209846}, "model": "item/pike"},
 		{"predicate": {"custom_model_data": 267405}, "model": "item/top_hat"},
 		{"predicate": {"custom_model_data": 295304}, "model": "item/bolter"},
 		{"predicate": {"custom_model_data": 350687}, "model": "item/enderite_ingot"},

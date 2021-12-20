@@ -345,56 +345,5 @@
 			"translation": [2.25, 7.25, 0],
 			"scale": [1.6, 1.6, 1.6]
 		}
-	},
-	"groups": [
-		0,
-		{
-			"name": "group",
-			"origin": [0, 0, 0],
-			"color": 0,
-			"children": [1, 2, 3]
-		},
-		{
-			"name": "group",
-			"origin": [0, 0, 0],
-			"color": 0,
-			"children": [4, 5, 6]
-		},
-		{
-			"name": "group",
-			"origin": [0, 0, 0],
-			"color": 0,
-			"children": [7, 8, 9]
-		},
-		{
-			"name": "group",
-			"origin": [0, 0, 0],
-			"color": 0,
-			"children": [10, 11, 12]
-		},
-		{
-			"name": "group",
-			"origin": [0, 0, 0],
-			"color": 0,
-			"children": [13, 14, 15, 16]
-		},
-		{
-			"name": "group",
-			"origin": [0, 0, 0],
-			"color": 0,
-			"children": [17, 18]
-		},
-		{
-			"name": "group",
-			"origin": [0, 0, 0],
-			"color": 0,
-			"children": [19, 20]
-		},
-		{
-			"name": "group",
-			"origin": [0, 0, 0],
-			"color": 0,
-			"children": [21, 22, 23, 24, 25]
-		}
-	]
+	}
 }

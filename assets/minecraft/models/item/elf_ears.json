@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "material/elf_ears",
-		"particle": "material/elf_ears"
+		"0": "item/elf_ears",
+		"particle": "item/elf_ears"
 	},
 	"elements": [
 		{
@@ -182,19 +182,5 @@
 		"fixed": {
 			"translation": [0, 7, -2]
 		}
-	},
-	"groups": [
-		{
-			"name": "right",
-			"origin": [0, 0, 0],
-			"color": 0,
-			"children": [0, 1, 2, 3, 4, 5]
-		},
-		{
-			"name": "left",
-			"origin": [0, 0, 0],
-			"color": 0,
-			"children": [6, 7, 8, 9, 10, 11]
-		}
-	]
+	}
 }
