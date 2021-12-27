@@ -72,6 +72,8 @@
 
 		{"predicate": {"custom_model_data": 175207}, "model": "item/party_hat"},
 		{"predicate": {"custom_model_data": 209846}, "model": "item/pike"},
+		{"predicate": {"custom_model_data": 256289}, "model": "item/plate"},
+		{"predicate": {"custom_model_data": 259822}, "model": "item/turkey_on_a_plate"},
 		{"predicate": {"custom_model_data": 267405}, "model": "item/top_hat"},
 		{"predicate": {"custom_model_data": 295304}, "model": "item/bolter"},
 		{"predicate": {"custom_model_data": 350687}, "model": "item/enderite_ingot"},
