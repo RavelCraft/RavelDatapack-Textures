@@ -4,7 +4,7 @@
 		"layer0": "item/netherite_axe"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 246060}, "model": "item/enderite_axe"},
-		{"predicate": {"custom_model_data": 952356}, "model": "item/stormbreaker"}
+		{"predicate": {"custom_model_data": 246060}, "model": "item/custom/enderite_axe"},
+		{"predicate": {"custom_model_data": 952356}, "model": "item/custom/stormbreaker"}
 	]
 }

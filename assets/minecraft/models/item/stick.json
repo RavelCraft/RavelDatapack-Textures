@@ -4,9 +4,9 @@
 		"layer0": "item/stick"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 502698}, "model": "item/magic_stick"},
-		{"predicate": {"custom_model_data": 641238}, "model": "item/entityinabukket"},
-		{"predicate": {"custom_model_data": 829052}, "model": "item/playerpickeruppa"},
-		{"predicate": {"custom_model_data": 982645}, "model": "item/firework_launcher"}
+		{"predicate": {"custom_model_data": 502698}, "model": "item/custom/magic_stick"},
+		{"predicate": {"custom_model_data": 641238}, "model": "item/custom/entityinabukket"},
+		{"predicate": {"custom_model_data": 829052}, "model": "item/custom/playerpickeruppa"},
+		{"predicate": {"custom_model_data": 982645}, "model": "item/custom/firework_launcher"}
 	]
 }

@@ -4,6 +4,6 @@
 		"layer0": "item/netherite_hoe"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 246061}, "model": "item/enderite_hoe"}
+		{"predicate": {"custom_model_data": 246061}, "model": "item/custom/enderite_hoe"}
 	]
 }
