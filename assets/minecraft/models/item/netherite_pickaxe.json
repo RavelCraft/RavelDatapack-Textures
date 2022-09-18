@@ -4,6 +4,7 @@
 		"layer0": "item/netherite_pickaxe"
 	},
 	"overrides": [
+		{"predicate": {"custom_model_data": 79786}, "model": "item/custom/super_hammer"},
 		{"predicate": {"custom_model_data": 246062}, "model": "item/custom/enderite_pickaxe"}
 	]
 }
