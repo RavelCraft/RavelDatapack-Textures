@@ -1,3 +1,5 @@
 {
-  "menu.game": "Ravel Craft server - Options"
+  "menu.game": "Ravel Craft server - Options",
+  "multiplayer.unsecureserver.toast.title": "Chat messages are secured here",
+  "multiplayer.unsecureserver.toast": "You can't be tracked by Microsoft on this server! The new reporting system is blocked"
 }

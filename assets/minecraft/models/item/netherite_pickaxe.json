@@ -5,6 +5,7 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 79786}, "model": "item/custom/super_hammer"},
-		{"predicate": {"custom_model_data": 246062}, "model": "item/custom/enderite_pickaxe"}
+		{"predicate": {"custom_model_data": 246062}, "model": "item/custom/enderite_pickaxe"},
+		{"predicate": {"custom_model_data": 738356}, "model": "item/custom/netherite_war_hammer"}
 	]
 }
